@@ -1,6 +1,6 @@
 from re import T
 import unittest
-from power import power_num
+from power.power import power_num
 
 class TestPower(unittest.TestCase):
     """
